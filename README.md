@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @brrrrrrt
+- 👀 byrneware
+- 🌱 Typescript/Sass/Python/SQL
+- 📫 byrneware@yahoo.com

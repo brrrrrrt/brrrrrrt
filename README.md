@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brrrrrrt
-- 👀 byrneware
-- 🌱 Typescript/Sass/Python/SQL
-- 📫 byrneware@yahoo.com
+- 👋 aloha, i am Ethan (@brrrrrrrt). i have been programming for a little while now and love what i do!
+- 👀 my current project is byrneware (social networking for the dexterous).
+- 🌱 the languages i am leaning/know are Typescript,Sass/CSS, Python, Structured Query Language (SQL)
+- 📫 my email is byrneware@yahoo.com, used for contact with my company (unoficial at the moment).
